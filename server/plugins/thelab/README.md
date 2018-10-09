@@ -1,3 +1,3 @@
 # the-lab
 
-This is to simulate the MTP plugin.
+This is to immitate the MTP plugin. ( adjusted in 10.2.x branch)
